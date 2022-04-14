@@ -1,0 +1,705 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rss xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<channel>
+		<item>
+			<title>Abusing and Protecting Kubernetes, Linux and Containers</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_26473</link>
+			<PublishDate>44720</PublishDate>
+		</item>
+		<item>
+			<title>Digital Forensics and Incident Response: Tactical Edition</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_25755</link>
+			<PublishDate>44720</PublishDate>
+		</item>
+		<item>
+			<title>Digital Forensics and Incident Response: Tactical Edition</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_257551645123496</link>
+			<PublishDate>44781</PublishDate>
+		</item>
+		<item>
+			<title>Attack and Defend Android Applications</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_25660</link>
+			<PublishDate>44720</PublishDate>
+		</item>
+		<item>
+			<title>Attack and Defend Android Applications</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_256601645123759</link>
+			<PublishDate>44781</PublishDate>
+		</item>
+		<item>
+			<title>Reversing signal with Software-Defined Radio</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_25747</link>
+			<PublishDate>44720</PublishDate>
+		</item>
+		<item>
+			<title>Reversing signal with Software-Defined Radio</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_257471645115188</link>
+			<PublishDate>44781</PublishDate>
+		</item>
+		<item>
+			<title>Tactical Hacking Essentials</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_25653</link>
+			<PublishDate>44720</PublishDate>
+		</item>
+		<item>
+			<title>Live Fire Cloud Incident Response</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_25819</link>
+			<PublishDate>44720</PublishDate>
+		</item>
+		<item>
+			<title>Live Fire Cloud Incident Response</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_258191648574760</link>
+			<PublishDate>44781</PublishDate>
+		</item>
+		<item>
+			<title>Offensive Mobile Reversing and Exploitation</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_25576</link>
+			<PublishDate>44720</PublishDate>
+		</item>
+		<item>
+			<title>Advanced Web Attacks and Exploitation</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_26451</link>
+			<PublishDate>44720</PublishDate>
+		</item>
+		<item>
+			<title>Azure Cloud Attacks for Red and Blue Teams</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_25791</link>
+			<PublishDate>44720</PublishDate>
+		</item>
+		<item>
+			<title>Azure Cloud Attacks for Red and Blue Teams</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_257911645124434</link>
+			<PublishDate>44781</PublishDate>
+		</item>
+		<item>
+			<title>Actionable Defense: Understanding Adversary Tactics</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_25693</link>
+			<PublishDate>44720</PublishDate>
+		</item>
+		<item>
+			<title>Source Code Review (Raise your bar beyond Grep)</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_25802</link>
+			<PublishDate>44720</PublishDate>
+		</item>
+		<item>
+			<title>Source Code Review (Raise your bar beyond Grep)</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_258021645114968</link>
+			<PublishDate>44781</PublishDate>
+		</item>
+		<item>
+			<title>DevSecOps Masterclass</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_25708</link>
+			<PublishDate>44720</PublishDate>
+		</item>
+		<item>
+			<title>Advanced Hardware Hacking: Hands-On Power Analysis &amp; Glitching with the ChipWhisperer</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_25748</link>
+			<PublishDate>44720</PublishDate>
+		</item>
+		<item>
+			<title>Adversary Tactics - Vulnerability Research for Operators</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_25831</link>
+			<PublishDate>44720</PublishDate>
+		</item>
+		<item>
+			<title>Adversary Tactics - Vulnerability Research for Operators</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_258311645120091</link>
+			<PublishDate>44781</PublishDate>
+		</item>
+		<item>
+			<title>Purple-Team AWS: 2022 Edition</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_25742</link>
+			<PublishDate>44720</PublishDate>
+		</item>
+		<item>
+			<title>Purple-Team AWS: 2022 Edition</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_257421645116056</link>
+			<PublishDate>44781</PublishDate>
+		</item>
+		<item>
+			<title>Malware Analysis Fundamentals</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_25842</link>
+			<PublishDate>44720</PublishDate>
+		</item>
+		<item>
+			<title>Malware Analysis Fundamentals</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_258421645119770</link>
+			<PublishDate>44781</PublishDate>
+		</item>
+		<item>
+			<title>The Science of Engineering Malware</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_25531</link>
+			<PublishDate>44720</PublishDate>
+		</item>
+		<item>
+			<title>The Science of Engineering Malware</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_255311645114714</link>
+			<PublishDate>44781</PublishDate>
+		</item>
+		<item>
+			<title>Advanced Malware Traffic Analysis: Smarter Protection - 2022 Edition</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_25746</link>
+			<PublishDate>44720</PublishDate>
+		</item>
+		<item>
+			<title>Advanced Malware Traffic Analysis: Smarter Protection - 2022 Edition</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_257461645118724</link>
+			<PublishDate>44781</PublishDate>
+		</item>
+		<item>
+			<title>Adversary Detection &amp; Incident Response - Network Defense Range ESSENTIALS</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_25691</link>
+			<PublishDate>44720</PublishDate>
+		</item>
+		<item>
+			<title>SOC-Class : Building and Running Security Operations Centers</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_25616</link>
+			<PublishDate>44720</PublishDate>
+		</item>
+		<item>
+			<title>Advanced WiFi Exploitation for Red and Blue Teams</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_25777</link>
+			<PublishDate>44720</PublishDate>
+		</item>
+		<item>
+			<title>Physical Penetration &amp; Electronic Access Control Hacking</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_25837</link>
+			<PublishDate>44720</PublishDate>
+		</item>
+		<item>
+			<title>Applied Data Science and Machine Learning for Cyber Security</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_25589</link>
+			<PublishDate>44720</PublishDate>
+		</item>
+		<item>
+			<title>Applied Data Science and Machine Learning for Cyber Security</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_255891645120185</link>
+			<PublishDate>44781</PublishDate>
+		</item>
+		<item>
+			<title>Penetration Testing with Kali Linux</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_26452</link>
+			<PublishDate>44720</PublishDate>
+		</item>
+		<item>
+			<title>Applied Hardware Attacks 1 - Embedded And Iot Systems</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_25552</link>
+			<PublishDate>44720</PublishDate>
+		</item>
+		<item>
+			<title>Linux Enterprise Incident Response</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_25847</link>
+			<PublishDate>44720</PublishDate>
+		</item>
+		<item>
+			<title>Linux Enterprise Incident Response</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_258471645120083</link>
+			<PublishDate>44781</PublishDate>
+		</item>
+		<item>
+			<title>Deep Dive into Fuzzing</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_25497</link>
+			<PublishDate>44720</PublishDate>
+		</item>
+		<item>
+			<title>Deep Dive into Fuzzing</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_254971645124133</link>
+			<PublishDate>44781</PublishDate>
+		</item>
+		<item>
+			<title>The Technical Building Blocks of Zero Trust: How to Construct an Identity-based Network Security Stack</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_25824</link>
+			<PublishDate>44720</PublishDate>
+		</item>
+		<item>
+			<title>The Technical Building Blocks of Zero Trust: How to Construct an Identity-based Network Security Stack</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_258241645114473</link>
+			<PublishDate>44781</PublishDate>
+		</item>
+		<item>
+			<title>Cloud Security Hands-On (CCSK+) for AWS</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_26925</link>
+			<PublishDate>44720</PublishDate>
+		</item>
+		<item>
+			<title>Introduction to hard target internals</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_25711</link>
+			<PublishDate>44720</PublishDate>
+		</item>
+		<item>
+			<title>Introduction to hard target internals</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_257111645120890</link>
+			<PublishDate>44781</PublishDate>
+		</item>
+		<item>
+			<title>Adam Shostack's Threat Modeling Intensive</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_25825</link>
+			<PublishDate>44720</PublishDate>
+		</item>
+		<item>
+			<title>Adam Shostack's Threat Modeling Intensive</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_258251645117907</link>
+			<PublishDate>44781</PublishDate>
+		</item>
+		<item>
+			<title>Adversary Tactics - Detection</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_25809</link>
+			<PublishDate>44720</PublishDate>
+		</item>
+		<item>
+			<title>Attacking Injection Flaws Masterclass - Edition 2022</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_25667</link>
+			<PublishDate>44720</PublishDate>
+		</item>
+		<item>
+			<title>Attacking Injection Flaws Masterclass - Edition 2022</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_256671645124118</link>
+			<PublishDate>44781</PublishDate>
+		</item>
+		<item>
+			<title>Joe Grand's Hardware Hacking Basics</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_25703</link>
+			<PublishDate>44720</PublishDate>
+		</item>
+		<item>
+			<title>Joe Grand's Hardware Hacking Basics</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_257031645120423</link>
+			<PublishDate>44781</PublishDate>
+		</item>
+		<item>
+			<title>Applied Web Application Hacking - 2 Days</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_25715</link>
+			<PublishDate>44720</PublishDate>
+		</item>
+		<item>
+			<title>Applied Web Application Hacking - 2 Days</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_257151645123346</link>
+			<PublishDate>44781</PublishDate>
+		</item>
+		<item>
+			<title>Ransomware Response Boot Camp</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_25827</link>
+			<PublishDate>44720</PublishDate>
+		</item>
+		<item>
+			<title>Ransomware Response Boot Camp</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_258271645803079</link>
+			<PublishDate>44781</PublishDate>
+		</item>
+		<item>
+			<title>Hacking Enterprises - 2022 Edition</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_25528</link>
+			<PublishDate>44720</PublishDate>
+		</item>
+		<item>
+			<title>Hacking Enterprises - 2022 Edition</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_255281645121789</link>
+			<PublishDate>44781</PublishDate>
+		</item>
+		<item>
+			<title>Hands-On Hacking Fundamentals</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_25649</link>
+			<PublishDate>44720</PublishDate>
+		</item>
+		<item>
+			<title>Hands-On Hacking Fundamentals</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_256491645121643</link>
+			<PublishDate>44781</PublishDate>
+		</item>
+		<item>
+			<title>Unplugged: Modern WiFi Hacking</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_25657</link>
+			<PublishDate>44720</PublishDate>
+		</item>
+		<item>
+			<title>Windows Instrumentation With Frida</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_25712</link>
+			<PublishDate>44720</PublishDate>
+		</item>
+		<item>
+			<title>Windows Instrumentation With Frida</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_257121645113645</link>
+			<PublishDate>44781</PublishDate>
+		</item>
+		<item>
+			<title>Hacking and Securing Cloud Infrastructure 4 Day</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_25631</link>
+			<PublishDate>44720</PublishDate>
+		</item>
+		<item>
+			<title>Windows Kernel Rootkit Techniques</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_25758</link>
+			<PublishDate>44720</PublishDate>
+		</item>
+		<item>
+			<title>Astute AWS/Azure/GCP Cloud Red Team: It's Raining Shells! - 2022 Edition (4 Day)</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_25574</link>
+			<PublishDate>44720</PublishDate>
+		</item>
+		<item>
+			<title>Exploit Development For MIPS</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_25501</link>
+			<PublishDate>44720</PublishDate>
+		</item>
+		<item>
+			<title>Exploit Development For MIPS</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_255011645122375</link>
+			<PublishDate>44781</PublishDate>
+		</item>
+		<item>
+			<title>Hacking Cloud Infrastructure 2 Day</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_25632</link>
+			<PublishDate>44720</PublishDate>
+		</item>
+		<item>
+			<title>Hacking Cloud Infrastructure 2 Day</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_256321646844462</link>
+			<PublishDate>44781</PublishDate>
+		</item>
+		<item>
+			<title>Hacking Bureaucracy</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_25737</link>
+			<PublishDate>44720</PublishDate>
+		</item>
+		<item>
+			<title>Advanced Infrastructure Hacking 4 Day</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_25634</link>
+			<PublishDate>44720</PublishDate>
+		</item>
+		<item>
+			<title>Advanced Windows Exploitation</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_26449</link>
+			<PublishDate>44720</PublishDate>
+		</item>
+		<item>
+			<title>Advanced Whiteboard Hacking – aka Hands-on Threat Modeling</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_25744</link>
+			<PublishDate>44720</PublishDate>
+		</item>
+		<item>
+			<title>Advanced Whiteboard Hacking – aka Hands-on Threat Modeling</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_257441645118937</link>
+			<PublishDate>44781</PublishDate>
+		</item>
+		<item>
+			<title>Automating Security with Open Source</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_25705</link>
+			<PublishDate>44720</PublishDate>
+		</item>
+		<item>
+			<title>Automating Security with Open Source</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_257051645124402</link>
+			<PublishDate>44781</PublishDate>
+		</item>
+		<item>
+			<title>A Complete Practical Approach To Malware Analysis And Memory Forensics - 2022 Edition</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_25509</link>
+			<PublishDate>44720</PublishDate>
+		</item>
+		<item>
+			<title>Adversary Emulation &amp; Purple Teaming</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_25772</link>
+			<PublishDate>44720</PublishDate>
+		</item>
+		<item>
+			<title>Adversary Tactics - Mac Tradecraft</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_25829</link>
+			<PublishDate>44720</PublishDate>
+		</item>
+		<item>
+			<title>Adversary Tactics - Mac Tradecraft</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_258291645119864</link>
+			<PublishDate>44781</PublishDate>
+		</item>
+		<item>
+			<title>The Shellcode Lab</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_25706</link>
+			<PublishDate>44720</PublishDate>
+		</item>
+		<item>
+			<title>The Shellcode Lab</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_257061645114597</link>
+			<PublishDate>44781</PublishDate>
+		</item>
+		<item>
+			<title>Advanced Threat Emulation: Evasion</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_25780</link>
+			<PublishDate>44720</PublishDate>
+		</item>
+		<item>
+			<title>Advanced Threat Emulation: Evasion</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_257801645118840</link>
+			<PublishDate>44781</PublishDate>
+		</item>
+		<item>
+			<title>Industrial Control Systems: Build, Break, Secure</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_25630</link>
+			<PublishDate>44720</PublishDate>
+		</item>
+		<item>
+			<title>Active Directory attacks for Red and Blue Teams – Advanced Edition</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_25796</link>
+			<PublishDate>44720</PublishDate>
+		</item>
+		<item>
+			<title>Active Directory attacks for Red and Blue Teams – Advanced Edition</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_257961645033695</link>
+			<PublishDate>44781</PublishDate>
+		</item>
+		<item>
+			<title>Python Hacker Bootcamp - Zero to Hero</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_26303</link>
+			<PublishDate>44720</PublishDate>
+		</item>
+		<item>
+			<title>Python Hacker Bootcamp - Zero to Hero</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_263031645115311</link>
+			<PublishDate>44781</PublishDate>
+		</item>
+		<item>
+			<title>Advanced Infrastructure Hacking 2 Day</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_25658</link>
+			<PublishDate>44720</PublishDate>
+		</item>
+		<item>
+			<title>Advanced Infrastructure Hacking 2 Day</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_256581645118477</link>
+			<PublishDate>44781</PublishDate>
+		</item>
+		<item>
+			<title>A Comprehensive Guide to Digital Forensics &amp; Malware Analysis for Practical Incident Response</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_25540</link>
+			<PublishDate>44720</PublishDate>
+		</item>
+		<item>
+			<title>Advanced Detection Engineering for Windows</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_25717</link>
+			<PublishDate>44720</PublishDate>
+		</item>
+		<item>
+			<title>Attacking and Securing APIs</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_25496</link>
+			<PublishDate>44720</PublishDate>
+		</item>
+		<item>
+			<title>Attacking and Securing APIs</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_254961645123992</link>
+			<PublishDate>44781</PublishDate>
+		</item>
+		<item>
+			<title>Windows Enterprise Incident Response</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_25845</link>
+			<PublishDate>44720</PublishDate>
+		</item>
+		<item>
+			<title>Windows Enterprise Incident Response</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_258451645113913</link>
+			<PublishDate>44781</PublishDate>
+		</item>
+		<item>
+			<title>Attacking the Application Supply-Chain</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_25741</link>
+			<PublishDate>44720</PublishDate>
+		</item>
+		<item>
+			<title>Attacking the Application Supply-Chain</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_257411645124317</link>
+			<PublishDate>44781</PublishDate>
+		</item>
+		<item>
+			<title>Attacking and Defending AWS Cloud Environment</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_25788</link>
+			<PublishDate>44720</PublishDate>
+		</item>
+		<item>
+			<title>Hack in the Block</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_25776</link>
+			<PublishDate>44720</PublishDate>
+		</item>
+		<item>
+			<title>Web Attacks with Kali Linux</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_26453</link>
+			<PublishDate>44720</PublishDate>
+		</item>
+		<item>
+			<title>Full Scope Social Engineering And Physical Security</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_26304</link>
+			<PublishDate>44720</PublishDate>
+		</item>
+		<item>
+			<title>Practical Cloud Security for AWS and Azure Infrastructure</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_25784</link>
+			<PublishDate>44720</PublishDate>
+		</item>
+		<item>
+			<title>Enterprise Infrastructure Hacking - 2 Days</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_25656</link>
+			<PublishDate>44720</PublishDate>
+		</item>
+		<item>
+			<title>Enterprise Infrastructure Hacking - 2 Days</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_256561645123083</link>
+			<PublishDate>44781</PublishDate>
+		</item>
+		<item>
+			<title>Introductory Bootcamp On Software Reverse-Engineering, Cracking, And Counter-Measures</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_25855</link>
+			<PublishDate>44720</PublishDate>
+		</item>
+		<item>
+			<title>Abusing Active Directory (On-prem &amp; Azure)</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_25764</link>
+			<PublishDate>44720</PublishDate>
+		</item>
+		<item>
+			<title>Abusing Active Directory (On-prem &amp; Azure)</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_257641645117560</link>
+			<PublishDate>44781</PublishDate>
+		</item>
+		<item>
+			<title>Defending Enterprises - 2022 Edition</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_25535</link>
+			<PublishDate>44720</PublishDate>
+		</item>
+		<item>
+			<title>Defending Enterprises - 2022 Edition</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_255351645123776</link>
+			<PublishDate>44781</PublishDate>
+		</item>
+		<item>
+			<title>Adversary Emulation and Active Defense</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_25668</link>
+			<PublishDate>44720</PublishDate>
+		</item>
+		<item>
+			<title>Adversary Emulation and Active Defense</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_256681645119535</link>
+			<PublishDate>44781</PublishDate>
+		</item>
+		<item>
+			<title>Information Operations: Influence, Exploit, And Counter</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_25760</link>
+			<PublishDate>44720</PublishDate>
+		</item>
+		<item>
+			<title>Intrusion Operations</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_25728</link>
+			<PublishDate>44720</PublishDate>
+		</item>
+		<item>
+			<title>A Beginner's Guide to Reversing with Ghidra (v10/2022 Edition)</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_25736</link>
+			<PublishDate>44720</PublishDate>
+		</item>
+		<item>
+			<title>A Beginner's Guide to Reversing with Ghidra (v10/2022 Edition)</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_257361644958836</link>
+			<PublishDate>44781</PublishDate>
+		</item>
+		<item>
+			<title>Web Hacking Black Belt Edition 4 Day</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_25659</link>
+			<PublishDate>44720</PublishDate>
+		</item>
+		<item>
+			<title>Attacking Mobile Applications: Practical Security Testing for Android and iOS</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_25843</link>
+			<PublishDate>44720</PublishDate>
+		</item>
+		<item>
+			<title>Pragmatic API Exploration</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_25666</link>
+			<PublishDate>44720</PublishDate>
+		</item>
+		<item>
+			<title>Pragmatic API Exploration</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_256661645116268</link>
+			<PublishDate>44781</PublishDate>
+		</item>
+		<item>
+			<title>Assessing and Exploiting Control Systems and IIoT</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_25853</link>
+			<PublishDate>44720</PublishDate>
+		</item>
+		<item>
+			<title>Advanced Hacking and Securing Windows Infrastructure</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_25793</link>
+			<PublishDate>44720</PublishDate>
+		</item>
+		<item>
+			<title>Advanced Hacking and Securing Windows Infrastructure</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_257931645118242</link>
+			<PublishDate>44781</PublishDate>
+		</item>
+		<item>
+			<title>Adversary Tactics - Red Team Operations</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_25808</link>
+			<PublishDate>44720</PublishDate>
+		</item>
+		<item>
+			<title>Adversary Tactics - Tradecraft Analysis</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_25830</link>
+			<PublishDate>44720</PublishDate>
+		</item>
+		<item>
+			<title>Open Source Intelligence (OSINT) Tools and Techniques</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_25841</link>
+			<PublishDate>44720</PublishDate>
+		</item>
+		<item>
+			<title>Open Source Intelligence (OSINT) Tools and Techniques</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_258411645119363</link>
+			<PublishDate>44781</PublishDate>
+		</item>
+		<item>
+			<title>Advanced Cloud Security Practitioner</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_25826</link>
+			<PublishDate>44781</PublishDate>
+		</item>
+		<item>
+			<title>Applied Hardware Attacks 2 - Hardware Pentesting</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_25810</link>
+			<PublishDate>44781</PublishDate>
+		</item>
+		<item>
+			<title>APPSEC - From Conceptual Design To Incident Response</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_26498</link>
+			<PublishDate>44781</PublishDate>
+		</item>
+		<item>
+			<title>Open Source Intelligence Techniques</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_25870</link>
+			<PublishDate>44781</PublishDate>
+		</item>
+		<item>
+			<title>Impact of Quantum Technologies on Cybersecurity</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_25709</link>
+			<PublishDate>44781</PublishDate>
+		</item>
+		<item>
+			<title>Military Strategy and Tactics for Cyber Security</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_25761</link>
+			<PublishDate>44781</PublishDate>
+		</item>
+		<item>
+			<title>Intermediate Software Defined Radio - Digital Communication</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_25640</link>
+			<PublishDate>44781</PublishDate>
+		</item>
+		<item>
+			<title>Adversary Detection &amp; Incident Response - Network Defense Range OPERATIONS</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_25694</link>
+			<PublishDate>44781</PublishDate>
+		</item>
+		<item>
+			<title>Election Security: Defending Elections Against Cyber, Influence, and Physical Threats</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_25759</link>
+			<PublishDate>44781</PublishDate>
+		</item>
+		<item>
+			<title>Cloud Security Hands-On (CCSK+) for Azure</title>
+			<link>https://www.blackhat.com/us-22/training/schedule/#session_link_25828</link>
+			<PublishDate>44781</PublishDate>
+		</item>
+	</channel>
+</rss>
